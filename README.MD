@@ -7,7 +7,15 @@
 
 
 ## Skills & Experience
+
+# Experience
+
 * 🎓  I'm currently studying more about programming!
 * 🌱  I'm on track for learning more about Javascript and more!
 * 💎  You can add me on discord if u have some questions. Discord : fr0st-iwnl#8646
 
+# Skills
+
+* Python
+* HTML, CSS
+* C#
