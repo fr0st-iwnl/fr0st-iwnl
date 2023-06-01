@@ -16,6 +16,6 @@
 
 # Skills
 
-* *💻*  Python
-* *💻*  HTML, CSS
-* *💻*  *C#*
+* *💻*  ***Python***
+* *💻*  ***HTML, CSS***
+* *💻*  ***C#***
