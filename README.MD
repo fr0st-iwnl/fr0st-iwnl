@@ -25,4 +25,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=fr0st-iwnl&show_icons=true" />
 </picture>
 
+<picture>
+<source
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fr0st-iwnl&layout=compact)
+media="(prefers-color-scheme: dark)"
+/>
+</picture>
