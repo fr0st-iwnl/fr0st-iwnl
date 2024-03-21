@@ -5,7 +5,7 @@
 
 - 💻 I’m currently learning : **Javascript, Frameworks etc...**
 
-- ⌨️ All of my projects are available at : [https://frostiwnl.netlify.app](https://frostiwnl.netlify.app)
+- ⌨️ All of my projects are available at : [https://frostiwnl.netlify.app](https://frostiwnl.netlify.app) target="_blank"
 
 - 🐧 Reach me on **Discord : fr0stiwnl**
 
