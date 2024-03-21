@@ -3,11 +3,11 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=fr0stiwnl&label=Profile%20views&color=0e75b6&style=flat" alt="fr0stiwnl" /> </p>
 
-- 🌱 I’m currently learning : **Javascript, Frameworks etc...**
+- 💻 I’m currently learning : **Javascript, Frameworks etc...**
 
-- 👨‍💻 All of my projects are available at : [https://frostiwnl.netlify.app](https://frostiwnl.netlify.app)
+- ⌨️ All of my projects are available at : [https://frostiwnl.netlify.app](https://frostiwnl.netlify.app)
 
-- 📫 How to reach me : **Discord : fr0stiwnl**
+- 🐧 Reach me on **Discord : fr0stiwnl**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
