@@ -20,4 +20,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fr0st-iwnl&show_icons=true&locale=en" alt="fr0stiwnl" /></p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fr0st-iwnl&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fr0st-iwnl&layout=compact)
