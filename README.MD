@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fr0stiwnl&label=Profile%20views&color=0e75b6&style=flat" alt="fr0stiwnl" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fr0st-iwnl" alt="fr0stiwnl" /></a> </p>
-
 - 🌱 I’m currently learning : **Javascript, Frameworks etc...**
 
 - 👨‍💻 All of my projects are available at : [https://frostiwnl.netlify.app](https://frostiwnl.netlify.app)
