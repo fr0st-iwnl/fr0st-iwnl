@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Frost</h1>
 <h3 align="center">A passionate frontend developer from Romania</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fr0stiwnl&label=Profile%20views&color=0e75b6&style=flat" alt="fr0stiwnl" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=fr0stiwnl&label=Profile%20views&color=0e75b6&style=flat" alt="fr0stiwnl" /> </p>
 
 - 🌱 I’m currently learning : **Javascript, Frameworks etc...**
 
