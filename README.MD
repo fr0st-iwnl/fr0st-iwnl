@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fr0stiwnl" alt="fr0stiwnl" /></a> </p>
 
-- 🌱 I’m currently learning **Javascript, Frameworks etc...**
+- 🌱 I’m currently learning : **Javascript, Frameworks etc...**
 
-- 👨‍💻 All of my projects are available at [https://frostiwnl.netlify.app](https://frostiwnl.netlify.app)
+- 👨‍💻 All of my projects are available at : [https://frostiwnl.netlify.app](https://frostiwnl.netlify.app)
 
-- 📫 How to reach me **Discord : fr0stiwnl**
+- 📫 How to reach me : **Discord : fr0stiwnl**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
