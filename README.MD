@@ -25,4 +25,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=fr0st-iwnl&show_icons=true" />
 </picture>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fr0st-iwnl&bg_color=00000000)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fr0st-iwnl&bg_color=dark)
