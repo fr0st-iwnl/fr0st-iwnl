@@ -16,8 +16,8 @@
 <p><a href="https://ko-fi.com/fr0stiwnl"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ko-fi.com/fr0stiwnl" /></a></p><br><br>
 
 
-[![fr0st-iwnl's GitHub stats](https://github-readme-stats.vercel.app/api?username=fr0st-iwnl)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fr0st-iwnl&show_icons=true&locale=en" alt="fr0stiwnl" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fr0st-iwnl&" alt="fr0stiwnl" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fr0st-iwnl)](https://github.com/anuraghazra/github-readme-stats)
