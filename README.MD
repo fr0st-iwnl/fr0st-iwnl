@@ -3,9 +3,14 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=fr0stiwnl&label=Profile%20views&color=0e75b6&style=flat" alt="fr0stiwnl" /> </p>
 
-- 💻 I’m currently learning : **Javascript, Frameworks etc...**
+<div align="center">
+  <h2 style="font-weight: bold; color: #1E90FF;">🌟 Currently Learning 🌟</h2>
+  <p style="font-size: 18px;">💻 <strong>JavaScript</strong> and <strong>Frameworks</strong></p>
+  <br>
+  <h2 style="font-weight: bold; color: #1E90FF;">🚀 Contact Me 🚀</h2>
+  <p style="font-size: 18px;">🐧 <strong>Discord:</strong> fr0stiwnl</p>
+</div>
 
-- 🐧 Reach me on **Discord : fr0stiwnl**
 
 
 <h3 align="left">Tech Skills:</h3>
