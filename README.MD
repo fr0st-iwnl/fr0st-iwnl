@@ -11,7 +11,7 @@
   <h3 style="color: #1E90FF;">Contact Me:</h3>
   <ul>
 <a href="https://frostiwnl.netlify.app/discord/index2">
-    <li><img src="https://skillicons.dev/icons?i=discord" width=30 height=18 /></a> <strong>Discord:</strong> fr0stiwnl</li>
+    <li><img src="https://skillicons.dev/icons?i=discord" width=30 height=18 /> <strong>Discord:</strong></a> fr0stiwnl</li>
   </ul>
 </div>
 
