@@ -8,9 +8,7 @@
   <ul>
     <li>💻 <strong>JavaScript</strong>, <strong>Typescript</strong>, and <strong>Frameworks</strong></li>
   </ul>
-  <h3 style="color: #1E90FF;">Contact Me:</h3>
-  <ul>
-<div align="left">
+  <div align="left">
   <h3 style="color: #1E90FF;">Contact Me:</h3>
   <ul>
     <li>
@@ -20,6 +18,7 @@
     </li>
   </ul>
 </div>
+
 
 
 
