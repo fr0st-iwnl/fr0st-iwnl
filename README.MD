@@ -26,36 +26,37 @@
 <h3 align="left">Tech Skills:</h3>
 <div align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-    <img src="https://skillicons.dev/icons/html" alt="HTML" width="48" height="48" style="margin-right: 10px;" />
+    <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="48" height="48" style="margin-right: 10px;" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-    <img src="https://skillicons.dev/icons/css" alt="CSS" width="48" height="48" style="margin-right: 10px;" />
+    <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="48" height="48" style="margin-right: 10px;" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img src="https://skillicons.dev/icons/javascript" alt="JavaScript" width="48" height="48" style="margin-right: 10px;" />
+    <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="48" height="48" style="margin-right: 10px;" />
   </a>
   <a href="https://www.python.org/">
-    <img src="https://skillicons.dev/icons/python" alt="Python" width="48" height="48" style="margin-right: 10px;" />
+    <img src="https://skillicons.dev/icons?i=python" alt="Python" width="48" height="48" style="margin-right: 10px;" />
   </a>
   <a href="https://www.kernel.org/">
-    <img src="https://skillicons.dev/icons/linux" alt="Linux" width="48" height="48" style="margin-right: 10px;" />
+    <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="48" height="48" style="margin-right: 10px;" />
   </a>
   <a href="https://reactjs.org/">
-    <img src="https://skillicons.dev/icons/react" alt="React" width="48" height="48" style="margin-right: 10px;" />
+    <img src="https://skillicons.dev/icons?i=react" alt="React" width="48" height="48" style="margin-right: 10px;" />
   </a>
   <a href="https://getbootstrap.com/">
-    <img src="https://skillicons.dev/icons/bootstrap" alt="Bootstrap" width="48" height="48" style="margin-right: 10px;" />
+    <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="48" height="48" style="margin-right: 10px;" />
   </a>
   <a href="https://www.typescriptlang.org/">
-    <img src="https://skillicons.dev/icons/typescript" alt="TypeScript" width="48" height="48" style="margin-right: 10px;" />
+    <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" width="48" height="48" style="margin-right: 10px;" />
   </a>
   <a href="https://git-scm.com/">
-    <img src="https://skillicons.dev/icons/git" alt="Git" width="48" height="48" style="margin-right: 10px;" />
+    <img src="https://skillicons.dev/icons?i=git" alt="Git" width="48" height="48" style="margin-right: 10px;" />
   </a>
   <a href="https://vscodium.com/">
     <img src="https://skillicons.dev/icons?i=vscodium" alt="VSCodium" width="48" height="48" style="margin-right: 10px;" />
   </a>
 </div>
+
 
 
 
