@@ -7,7 +7,7 @@
 
 - 🐧 Reach me on **Discord : fr0stiwnl**
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,python,typescript,git,linux&perline=5" />
   </a>
