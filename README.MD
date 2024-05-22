@@ -9,8 +9,10 @@
     <li>💻 <strong>JavaScript</strong>, <strong>Typescript</strong>, and <strong>Frameworks</strong></li>
   </ul>
   <h3 style="color: #1E90FF;">Contact Me:</h3>
-  <ul href="https://frostiwnl.netlify.app/discord/index2">
+  <ul>
+<a href="https://frostiwnl.netlify.app/discord/index2">
     <li><img src="https://skillicons.dev/icons?i=discord" width=30 height=18 /> <strong>Discord:</strong> fr0stiwnl</li>
+</a>
   </ul>
 </div>
 
