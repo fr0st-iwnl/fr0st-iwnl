@@ -7,7 +7,7 @@
 
 - 🐧 Reach me on **Discord : fr0stiwnl**
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,bootstrap,python,linux,typescript,git,autohotkey,flutter&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,bootstrap,python,linux,typescript,git,autohotkey,flutter&perline=5)](https://skillicons.dev)
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G8VK335)
 
