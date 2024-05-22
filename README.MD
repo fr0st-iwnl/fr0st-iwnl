@@ -39,7 +39,7 @@
   </a>
   <a href="https://www.kernel.org/">
     <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="48" height="48" style="margin-right: 10px;" />
-  </a>
+  </a><br>
   <a href="https://reactjs.org/">
     <img src="https://skillicons.dev/icons?i=react" alt="React" width="48" height="48" style="margin-right: 10px;" />
   </a>
@@ -56,6 +56,7 @@
     <img src="https://skillicons.dev/icons?i=vscodium" alt="VSCodium" width="48" height="48" style="margin-right: 10px;" />
   </a>
 </div>
+
 
 
 
