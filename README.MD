@@ -8,7 +8,7 @@
 - 🐧 Reach me on **Discord : fr0stiwnl**
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,bootstrap,python,linux,typescript,git&perline=5)](https://skillicons.dev)
-<div style="display: inline-block; vertical-align: top; margin-top: 6px;">
+<div style="display: inline-block; vertical-align: top; margin-top: 1px;">
   <a href="https://autohotkey.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/Ixiko/AHK-Forum/master/images/AHK%20main%20icon.png" alt="ahk" width="48" height="48"/>
   </a>
