@@ -7,9 +7,14 @@
 
 - 🐧 Reach me on **Discord : fr0stiwnl**
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,bootstrap,python,linux,typescript,git&perline=5)](https://skillicons.dev)
-
-[![Git](https://skillicons.dev/icons/git.svg)](https://skillicons.dev) [![AHK](https://raw.githubusercontent.com/Ixiko/AHK-Forum/master/images/AHK%20main%20icon.png)](https://autohotkey.com)
+<h3 align="left">Tech Skills:</h3>
+<p align="left"> <a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
+<a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <p align="left"> <a href="https://autohotkey.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Ixiko/AHK-Forum/master/images/AHK%20main%20icon.png" alt="ahk" width="40" height="40"/> </a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img src="https://ph-files.imgix.net/6a529589-3dcf-43c2-8723-bca8307b4f37.png?auto=format" alt="bootstrap" width="40" height="40"/> </a> 
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <p align="left"> </p>
 
 
 
