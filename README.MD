@@ -7,7 +7,7 @@
 
 - 🐧 Reach me on **Discord : fr0stiwnl**
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,bootstrap,python,linux,typescript,git,<a href="https://autohotkey.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Ixiko/AHK-Forum/master/images/AHK%20main%20icon.png" alt="ahk" width="40" height="40"/> </a>flutter&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,bootstrap,python,linux,typescript,git,flutter&perline=5)](https://skillicons.dev)<a href="https://autohotkey.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Ixiko/AHK-Forum/master/images/AHK%20main%20icon.png" alt="ahk" width="40" height="40"/> </a>
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G8VK335)
 
