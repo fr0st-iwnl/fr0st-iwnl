@@ -10,7 +10,7 @@
 
 <p align="left">
   <a href="https://frostiwnl.netlify.app">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,python,linux,typescript,git,vs" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,python,linux,typescript,git,vscode" />
   </a>
 </p>
 
