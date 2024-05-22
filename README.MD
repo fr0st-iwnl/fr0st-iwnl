@@ -10,9 +10,7 @@
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,python,typescript,git,linux&perline=5" />
-<a href="https://autohotkey.com">
-    <img src="https://raw.githubusercontent.com/Ixiko/AHK-Forum/master/images/AHK%20main%20icon.png" alt="ahk" width="48" height="48"/>
-  </a>
+      <img src="https://raw.githubusercontent.com/Ixiko/AHK-Forum/master/images/AHK%20main%20icon.png" alt="ahk" width="48" height="48"/>
   </a>
 </p>
 
