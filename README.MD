@@ -7,7 +7,10 @@
 
 - 🐧 Reach me on **Discord : fr0stiwnl**
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,bootstrap,python,linux,typescript,git,ahk&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,bootstrap,python,linux,typescript,git&perline=5)](https://skillicons.dev)
+
+[![Git](https://skillicons.dev/icons/git.svg)](https://skillicons.dev) [![AHK](https://raw.githubusercontent.com/Ixiko/AHK-Forum/master/images/AHK%20main%20icon.png)](https://autohotkey.com)
+
 
 
 
