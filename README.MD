@@ -24,11 +24,39 @@
 
 
 <h3 align="left">Tech Skills:</h3>
-<p align="left">
-  <a href="https://frostiwnl.netlify.app">
-    <img src="https://skillicons.dev/icons?i=html,css,js,python,linux,react,bootstrap,typescript,git,vscodium&perline=5" />
+<div align="left">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+    <img src="https://skillicons.dev/icons/html.svg" alt="HTML" width="48" height="48" style="margin-right: 10px;" />
   </a>
-</p>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+    <img src="https://skillicons.dev/icons/css.svg" alt="CSS" width="48" height="48" style="margin-right: 10px;" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://skillicons.dev/icons/javascript.svg" alt="JavaScript" width="48" height="48" style="margin-right: 10px;" />
+  </a>
+  <a href="https://www.python.org/">
+    <img src="https://skillicons.dev/icons/python.svg" alt="Python" width="48" height="48" style="margin-right: 10px;" />
+  </a>
+  <a href="https://www.kernel.org/">
+    <img src="https://skillicons.dev/icons/linux.svg" alt="Linux" width="48" height="48" style="margin-right: 10px;" />
+  </a>
+  <a href="https://reactjs.org/">
+    <img src="https://skillicons.dev/icons/react.svg" alt="React" width="48" height="48" style="margin-right: 10px;" />
+  </a>
+  <a href="https://getbootstrap.com/">
+    <img src="https://skillicons.dev/icons/bootstrap.svg" alt="Bootstrap" width="48" height="48" style="margin-right: 10px;" />
+  </a>
+  <a href="https://www.typescriptlang.org/">
+    <img src="https://skillicons.dev/icons/typescript.svg" alt="TypeScript" width="48" height="48" style="margin-right: 10px;" />
+  </a>
+  <a href="https://git-scm.com/">
+    <img src="https://skillicons.dev/icons/git.svg" alt="Git" width="48" height="48" style="margin-right: 10px;" />
+  </a>
+  <a href="https://vscodium.com/">
+    <img src="https://skillicons.dev/icons/vscodium.svg" alt="VSCodium" width="48" height="48" style="margin-right: 10px;" />
+  </a>
+</div>
+
 
 
 
