@@ -6,7 +6,8 @@
 - 💻 I’m currently learning : **Javascript, Frameworks etc...**
 
 - 🐧 Reach me on **Discord : fr0stiwnl**
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,linux)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,reactjs,bootstrap,python,linux,typescript,git,autohotkey,flutter&perline=3)](https://skillicons.dev)
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G8VK335)
 
