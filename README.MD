@@ -10,7 +10,7 @@
   </ul>
   <h3 style="color: #1E90FF;">Contact Me:</h3>
   <ul>
-    <li><img src="https://skillicons.dev/icons?i=discord" /> <strong>Discord:</strong> fr0stiwnl</li>
+    <li><img src="https://skillicons.dev/icons?i=discord" width=10 height=10 /> <strong>Discord:</strong> fr0stiwnl</li>
   </ul>
 </div>
 
