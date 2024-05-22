@@ -53,7 +53,7 @@
     <img src="https://skillicons.dev/icons/git" alt="Git" width="48" height="48" style="margin-right: 10px;" />
   </a>
   <a href="https://vscodium.com/">
-    <img src="https://skillicons.dev/icons/vscodium" alt="VSCodium" width="48" height="48" style="margin-right: 10px;" />
+    <img src="https://skillicons.dev/icons?i=vscodium" alt="VSCodium" width="48" height="48" style="margin-right: 10px;" />
   </a>
 </div>
 
