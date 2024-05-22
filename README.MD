@@ -13,7 +13,6 @@
   <ul>
     <li>
       <img src="https://skillicons.dev/icons?i=discord" width="30" height="18" />
-      <strong>Discord:</strong>
       <a href="https://frostiwnl.netlify.app/discord/index2" target="_blank">fr0stiwnl</a>
     </li>
   </ul>
