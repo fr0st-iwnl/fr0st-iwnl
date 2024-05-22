@@ -8,15 +8,12 @@
   <ul>
     <li>💻 <strong>JavaScript</strong>, <strong>Typescript</strong>, and <strong>Frameworks</strong></li>
   </ul>
- <div align="left">
   <h3 style="color: #1E90FF;">Contact Me:</h3>
   <ul>
-    <li>
-      <img src="https://skillicons.dev/icons?i=discord" width="30" height="18" />
-      <a href="https://frostiwnl.netlify.app/discord/index2" target="_blank">fr0stiwnl</a>
-    </li>
+    <li>🔗 <strong>Discord:</strong> fr0stiwnl</li>
   </ul>
 </div>
+
 
 
 
