@@ -8,18 +8,17 @@
   <ul>
     <li>💻 <strong>JavaScript</strong>, <strong>Typescript</strong>, and <strong>Frameworks</strong></li>
   </ul>
-  <div align="left">
+ <div align="left">
   <h3 style="color: #1E90FF;">Contact Me:</h3>
   <ul>
     <li>
-      <a href="https://frostiwnl.netlify.app/discord/index2">
-        <img src="https://skillicons.dev/icons?i=discord" width="30" height="18" />
-        <strong>Discord:</strong>
-      </a>
-      fr0stiwnl
+      <img src="https://skillicons.dev/icons?i=discord" width="30" height="18" />
+      <strong>Discord:</strong>
+      <a href="https://frostiwnl.netlify.app/discord/index2" target="_blank">fr0stiwnl</a>
     </li>
   </ul>
 </div>
+
 
 
 
