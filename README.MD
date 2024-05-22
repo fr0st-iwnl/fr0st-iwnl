@@ -7,13 +7,22 @@
 
 - 🐧 Reach me on **Discord : fr0stiwnl**
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,python,typescript,git,linux&perline=5" />
-&nbsp;
-      <img src="https://raw.githubusercontent.com/Ixiko/AHK-Forum/master/images/AHK%20main%20icon.png" alt="ahk" width="48" height="48"/>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+
+<p align="center">
+  <!-- Font Awesome icons -->
+  <i class="fab fa-html5 fa-3x"></i>
+  <i class="fab fa-css3-alt fa-3x"></i>
+  <i class="fab fa-js fa-3x"></i>
+  <!-- Add more Font Awesome icons as needed -->
+
+  <!-- AutoHotkey icon -->
+  <a href="https://autohotkey.com">
+    <img src="https://raw.githubusercontent.com/Ixiko/AHK-Forum/master/images/AHK%20main%20icon.png" alt="ahk" width="48" height="48" style="margin-left: 10px;"/>
   </a>
 </p>
+
+
 
 
 
