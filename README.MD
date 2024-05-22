@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=fr0stiwnl&label=Profile%20views&color=0e75b6&style=flat" alt="fr0stiwnl" /> </p>
 
-<div align="center">
+<div align="left">
   <h2 style="font-weight: bold; color: #1E90FF;">🌟 Currently Learning 🌟</h2>
   <p style="font-size: 18px;">💻 <strong>JavaScript</strong> and <strong>Frameworks</strong></p>
   <br>
