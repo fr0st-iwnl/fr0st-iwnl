@@ -12,12 +12,15 @@
   <h3 style="color: #1E90FF;">Contact Me:</h3>
   <ul>
     <li>
-      <img src="https://skillicons.dev/icons?i=discord" width="30" height="18" />
-      <strong>Discord:</strong>
-      <a href="https://frostiwnl.netlify.app/discord/index2">fr0stiwnl</a>
+      <a href="https://frostiwnl.netlify.app/discord/index2">
+        <img src="https://skillicons.dev/icons?i=discord" width="30" height="18" />
+        <strong>Discord:</strong>
+      </a>
+      fr0stiwnl
     </li>
   </ul>
 </div>
+
 
 
 
