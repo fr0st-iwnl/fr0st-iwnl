@@ -3,11 +3,17 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=fr0stiwnl&label=Profile%20views&color=0e75b6&style=flat" alt="fr0stiwnl" /> </p>
 
-### Currently Learning:
-- 💻 **JavaScript and Frameworks**
-  
-### Contact Me:
-- 🐧 **Discord:** fr0stiwnl
+<div align="left">
+  <h3 style="color: #1E90FF;">Currently Learning:</h3>
+  <ul>
+    <li>💻 <strong>JavaScript</strong>, <strong>Typescript</strong>, and <strong>Frameworks</strong></li>
+  </ul>
+  <h3 style="color: #1E90FF;">Contact Me:</h3>
+  <ul>
+    <li>🐧 <strong>Discord:</strong> fr0stiwnl</li>
+  </ul>
+</div>
+
 
 
 
