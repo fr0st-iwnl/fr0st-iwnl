@@ -10,7 +10,7 @@
   </ul>
   <h3 style="color: #1E90FF;">Contact Me:</h3>
   <ul>
-    <li>:link: <strong>Discord:</strong> `@fr0stiwnl`</li>
+    <li>:link: <strong>Discord:</strong> <sub>@fr0stiwnl</sub></li>
   </ul>
 </div>
 
