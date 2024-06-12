@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Frost</h1>
+<h1 align="center">Hi :wave:, I'm Frost</h1>
 <h3 align="center">A passionate Front-End Developer from Romania</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=fr0stiwnl&label=Profile%20views&color=0e75b6&style=flat" alt="fr0stiwnl" /> </p>
@@ -6,11 +6,11 @@
 <div align="left">
   <h3 style="color: #1E90FF;">Currently Learning:</h3>
   <ul>
-    <li>💻 <strong>JavaScript</strong>, <strong>Typescript</strong>, and <strong>Frameworks</strong></li>
+    <li>:computer: <strong>JavaScript</strong>, <strong>Typescript</strong>, and <strong>Frameworks</strong></li>
   </ul>
   <h3 style="color: #1E90FF;">Contact Me:</h3>
   <ul>
-    <li>- 🔗 **Discord:** `@fr0stiwnl`</li>
+    <li>:link: <strong>Discord:</strong> `@fr0stiwnl`</li>
   </ul>
 </div>
 
