@@ -4,9 +4,10 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=fr0stiwnl&label=Profile%20views&color=0e75b6&style=flat" alt="fr0stiwnl" /> </p>
 
 <div align="left">
-  <h3 style="color: #1E90FF;">Contact Me:</h3>
+  <h3 style="color: #1E90FF;">You can reach me on:</h3>
   <ul>
     <li>:link: <strong>Discord:</strong> <code>@fr0stiwnl</code></li>
+    <li>📧 <strong>Email:</strong> <code>frostiwnl0@proton.me</code></li>
   </ul>
 </div>
 
