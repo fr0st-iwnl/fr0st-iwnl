@@ -37,4 +37,5 @@
 </picture>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fr0st-iwnl&bg_color=1a1b27&text_color=38bdae)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fr0st-iwnl&layout=compact&bg_color=1a1b27&text_color=38bdae)
 
