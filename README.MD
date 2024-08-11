@@ -13,13 +13,6 @@
 
 
 
-<h3 align="left">Tech Skills:</h3>
-<p align="left">
-  <a href="https://fr0st.netlify.app">
-    <img src="https://skillicons.dev/icons?i=html,css,js,python,linux,react,bootstrap,typescript,git,vscodium&perline=5" />
-  </a>
-</p>
-
 ### Support Me
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G8VK335)
