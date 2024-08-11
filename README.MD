@@ -11,7 +11,12 @@
   </ul>
 </div>
 
-
+<h3 align="left">Tech Skills:</h3>
+<p align="left">
+  <a href="https://fr0st.netlify.app">
+    <img src="https://skillicons.dev/icons?i=html,css,js,python,linux,react,bootstrap,typescript,git,vscodium&perline=5" />
+  </a>
+</p>
 
 ### Support Me
 
