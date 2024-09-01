@@ -7,7 +7,7 @@
   <h3 style="color: #1E90FF;">You can reach me on:</h3>
   <ul>
     <li>:link: <strong>Discord:</strong> <code>@fr0stiwnl</code></li>
-    <li>📧 <strong>Email:</strong> <a href="mailto:frostiwnl0@proton.me">ProtonMail</a></li>
+    <li>📧 <strong>Email:</strong> <a href="mailto:frostiwnl0@mailo.com">Mailo</a></li>
   </ul>
 </div>
 
