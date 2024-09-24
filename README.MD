@@ -2,7 +2,7 @@
 
 A passionate Front-End Developer
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=fr0stiwnl&label=Profile%20views&color=0e75b6&style=flat" alt="fr0stiwnl" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fr0stiwnl&label=Profile%20views&color=0e75b6&style=flat" alt="fr0stiwnl" /> </p>
 
 <div align="left">
   <h3 style="color: #1E90FF;">You can reach me on:</h3>
