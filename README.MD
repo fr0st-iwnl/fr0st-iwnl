@@ -6,7 +6,7 @@
 <div align="left">
   <h3 style="color: #1E90FF;">You can reach me on:</h3>
   <ul>
-    <li>:link: <strong>Discord:</strong> <code>@fr0stiwnl</code></li>
+    <li>:link: <strong>Discord:</strong> <code>@fr0st.xyz</code></li>
     <li>📧 <strong>Email:</strong> <a href="mailto:frostiwnl@tutamail.com">TutaMail</a></li>
   </ul>
 </div>
