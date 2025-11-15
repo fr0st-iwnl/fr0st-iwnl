@@ -14,7 +14,18 @@
 
 ### Support Me
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G8VK335)
+<p>
+  <a href="https://ko-fi.com/G2G8VK335">
+    <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Ko-fi" />
+  </a>
+
+### OR
+<br>
+  <a href="https://github.com/sponsors/fr0st-iwnl">
+    <img src="https://img.shields.io/badge/Sponsor-A95284?style=for-the-badge&logo=github-sponsors&logoColor=white" alt="Sponsor" />
+  </a>
+</p>
+
 
 ### GitHub Stats
 
