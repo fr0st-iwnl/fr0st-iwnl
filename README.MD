@@ -1,5 +1,5 @@
 <h1 align="center">Hi :wave:, I'm Frost</h1>
-<h3 align="center">I mostly work on front-end stuff, and sometimes other things too.</h3>
+<h3 align="center">I mostly build web apps, but I work on other things too when needed.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=fr0stiwnl&label=Profile%20views&color=0e75b6&style=flat" alt="fr0stiwnl" /> </p>
 
